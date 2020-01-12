@@ -1,0 +1,14 @@
+Stochastic Gradient Descent:-
+Stochastic Gradient Descent, or SGD for short, is an optimization algorithm used to train machine learning algorithms,
+most notably artificial neural networks used in deep learning.
+
+optimization algorithm:- 
+An optimization algorithm is a procedure which is executed iteratively by comparing various solutions till
+an optimum or a satisfactory solution is found. With the advent of computers, 
+optimization has become a part of computer-aided design activities
+
+Transfer learning:-
+Transfer learning generally refers to a process where a model trained on one problem is used in some way on a second related problem.
+In deep learning, transfer learning is a technique whereby a neural network model is first trained on a problem similar to the problem that is being solved. One or more layers from the trained model 
+are then used in a new model trained on the problem of interest.
+Transfer learning has the benefit of decreasing the training time for a neural network model and can result in lower generalization error.
